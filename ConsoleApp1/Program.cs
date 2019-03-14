@@ -12,7 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("This is my first application");
             Console.ReadLine();
-
+            Console.WriteLine("This is my first application");
+            Console.ReadLine();
         }
     }
 }
